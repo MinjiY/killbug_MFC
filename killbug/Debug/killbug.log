@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  killbugDlg.cpp
+c:\users\upi90\desktop\한이음_프로젝트파일\killbug\killbug\killbugdlg.cpp(201): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  killbug.cpp
+  코드를 생성하고 있습니다...
+  killbug.vcxproj -> C:\Users\upi90\Desktop\한이음_프로젝트파일\killbug\Debug\killbug.exe
+  killbug.vcxproj -> C:\Users\upi90\Desktop\한이음_프로젝트파일\killbug\Debug\killbug.pdb (Full PDB)
